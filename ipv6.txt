@@ -142,7 +142,6 @@ JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsA
 陕西生活频道,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
 陕西公共频道,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8
 西安教育频道,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
-undefined,#genre#
 陕西卫视,http://111.20.33.93:80/PLTV/88888893/224/3221225821/index.m3u8?$移动超清1080P
 陕西卫视,http://111.20.33.93:80/PLTV/88888893/224/3221226458/index.m3u8?$移动超清1080P
 陕西卫视,http://111.20.33.93:80/PLTV/88888893/224/3221226326/index.m3u8?$移动超清1080P
