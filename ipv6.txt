@@ -1,7 +1,7 @@
 🎮游戏频道,#genre#
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-CCTV台球,http://139.209.36.233:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV台球,http://180.213.174.225:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
+央视台球,http://139.209.36.233:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+央视台球,http://180.213.174.225:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 穿越火线,http://tc-tct.douyucdn2.cn:80/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=61214f4d00c7624be82c4cbc0705f176&token=cpn-androidmpro-0-605964-b9be22700076c085d14d1a1f4c95f5cb7a25fd6cd0d99908&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 和平精英官方赛事,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=292e7bf2f244d07902e7e0376dfce746&token=cpn-androidmpro-0-999-d32d75306aab2a79a1f3945ed9bc89884615020edef9ce9c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
