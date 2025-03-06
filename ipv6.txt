@@ -1,5 +1,7 @@
 🎮游戏频道,#genre#
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+CCTV台球,http://139.209.36.233:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV台球,http://180.213.174.225:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
 穿越火线,http://tc-tct.douyucdn2.cn:80/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=61214f4d00c7624be82c4cbc0705f176&token=cpn-androidmpro-0-605964-b9be22700076c085d14d1a1f4c95f5cb7a25fd6cd0d99908&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 和平精英官方赛事,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=292e7bf2f244d07902e7e0376dfce746&token=cpn-androidmpro-0-999-d32d75306aab2a79a1f3945ed9bc89884615020edef9ce9c&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
@@ -14,10 +16,14 @@ CF手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=
 JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.flv?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 NewTV 电竞,http://39.134.65.75:80/wh7f454c46tw1874103717_-1354686268/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8?icpid=88888888&RTS=1554599646&from=1&hms_devid=127
 电竞天堂,http://wouu.net:9977/udp/239.93.1.135:5140
-睛彩竞技,http://39.134.67.108/PLTV/88888888/224/3221226046/1.m3u8
 央视高网,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
+极速汽车,http://180.213.174.225:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+超级体育,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg-EQHTrpbCOxNSgnFRbr4w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMNhcQPODGVtsSVKlB7CbAh%2CEND
+睛彩广场舞,http://39.134.64.87:6610/PLTV/88888888/224/3221226472/index.m3u8?IASHttpSessionId=
+睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226147/index.m3u8?IASHttpSessionId=
+睛彩篮球,http://39.134.67.108/PLTV/88888888/224/3221225895/1.m3u8
 
 电影频道,#genre#
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -106,6 +112,8 @@ NewTV 农业致富,http://39.134.65.164/PLTV/88888888/224/3221225552/1.m3u8
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.m3u8
 广州影视,https://stream1.freetv.fun/6569ff08025b99653d6173dccf5aafb69b2c79ab797d6b87e82bae00fedb4511.m3u8
+广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=074974bc25835d38fda6936ae40aabe9&txTime=193108637cb
+广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
 家庭影院,http://60.172.130.146:352/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 上虞文化影院,https://stream1.freetv.fun/fed964756a0d4e488e79e95415e911f8f4cf3e5c6e66d654736747fa55856154.m3u8
@@ -119,14 +127,25 @@ NewTV 农业致富,http://39.134.65.164/PLTV/88888888/224/3221225552/1.m3u8
 淘电影,https://stream1.freetv.fun/tao-dian-ying-8.ctv
 天津影视,http://180.213.174.225:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
+安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv
 新昌休闲影视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8z
 神乐华语影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/85894rmovieChow_4000.xs?wsAuth=ba1c90644d5727f7eff2d821807aceb6&token=web-h5-90270207-85894-853ec75fcb0c6ecaca17aa65580152fde64a0f1c44c269f0&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=hw
 神乐欧美影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 电影,http://39.135.135.39:80/wh7f454c46tw1758952165_328384403/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8?icpid=88888888&RTS=1554599531&from=1&hms_devid=674
-开心转播线路1,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
-开心转播线路2,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-上海纪实HD,http://39.134.65.86:80/wh7f454c46tw1791807411_-1987553314/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8?icpid=88888888&RTS=1554599564&from=1&hms_devid=129
+河南电视剧,http://221.13.235.12:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+河南电视剧,http://219.154.243.115:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+河南电视剧,http://61.163.181.78:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+珠江电影,http://113.64.94.210:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&down=1
+天津影视,http://180.213.174.225:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+东方影视,http://gat.bkpcp.top/ymg.php?id=shys
+东方影视,https://www.freetv.top/migu/617290047.m3u8?migutoken=86c02ad0875d5cc49d77bcc8bdb628f2c9d508ffc323b964a03c8f92dde4afafa0345cf5a8fefbdf915c748e3d11c6c18e27ae1e21a609cec31a45e6c437db26a7a243625f9cf35c271171a22c
+动漫秀场,http://61.133.118.228:5001/douyu/9548279
+都市剧场,http://live.wanyuannews.com/wytv/hd/live.m3u8
+欢笑剧场,http://tvbox6.icu/tv/migu.php?id=hxjc
+西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
+潇湘电影,http://116.128.242.83:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 
 电影轮播,#genre#
 冰冰小剧场,http://zzy789.xyz/douyu1.php?id=74374
@@ -595,6 +614,11 @@ CGTN俄语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000028
 CGTN法语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN记录,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN西语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CETV1,http://59.32.97.93:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV1,http://113.64.94.210:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&down=1
+CETV2,http://59.32.97.93:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+CETV2,http://139.209.36.233:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 陕西频道,#genre#
 陕西公共频道,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8
@@ -602,7 +626,7 @@ CGTN西语,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000027
 陕西新闻资讯,http://111.20.33.93:80/PLTV/88888893/224/3221226357/index.m3u8?$移动超清1080P
 陕西新闻资讯,http://111.20.33.93:80/PLTV/88888893/224/3221227099/index.m3u8?$移动超清1080P
 陕西体育休闲,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
-陕西休闲体育,http://111.20.33.93:80/PLTV/88888893/224/3221226363/index.m3u8?$移动超清1080P
+陕西体育休闲,http://111.20.33.93:80/PLTV/88888893/224/3221226363/index.m3u8?$移动超清1080P
 陕西生活频道,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
 陕西西部电影,http://[2409:8087:7001:20:3::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
 陕西都市青春,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
@@ -959,6 +983,9 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 都市剧场,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
 都市剧场,http://180.213.174.225:9901/tsfile/live/1040_1.m3u8?key=txiptv&playlive=1&authid=0
 新闻综合,http://39.134.67.108/PLTV/88888888/224/3221225993/1.m3u8
+开心转播线路1,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
+开心转播线路2,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+上海纪实HD,http://39.134.65.86:80/wh7f454c46tw1791807411_-1987553314/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8?icpid=88888888&RTS=1554599564&from=1&hms_devid=129
 
 ☘️江苏频道,#genre#
 大丰公共,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8?zjiangsd
@@ -1313,6 +1340,13 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 央视台球,http://goo.bkpcp.top/mg/mlzq
 央视台球,http://dassby.qqff.top:99/live/高尔夫网球/index.m3u8
 风云足球,http://dassby.qqff.top:99/live/风云足球/index.m3u8
+魅力足球,http://tvbox6.icu/tv/migu.php?id=mlzq
+体育赛事,https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=ud
+体育赛事,https://iptv.sufa518.cn:8090/itv/5000000002000029972.m3u8?cdn=bestzb
+五星体育,http://cdnat.yesclouds.com:37788/itv/5000000010000017540.m3u8?cdn=bestzb
+五星体育,https://iptv.sufa518.cn:8090/itv/5000000010000017540.m3u8?cdn=bestzb
+五星体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+五星体育,http://api3.52tb.xyz/info?id=376&token=20221127jxwhhemby
 
 台湾,#genre#
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
