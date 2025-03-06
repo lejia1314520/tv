@@ -1,3 +1,4 @@
+realm,#genre#
 Live Cams,http://cdn.adultiptv.net/livecams.m3u8
 MILF,http://cdn.adultiptv.net/milf.m3u8
 Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
