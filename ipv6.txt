@@ -20,9 +20,20 @@ NewTV 电竞,http://39.134.65.75:80/wh7f454c46tw1874103717_-1354686268/ottrrs.hl
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
 极速汽车,http://180.213.174.225:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 超级体育,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg-EQHTrpbCOxNSgnFRbr4w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMNhcQPODGVtsSVKlB7CbAh%2CEND
-睛彩广场舞,http://39.134.64.87:6610/PLTV/88888888/224/3221226472/index.m3u8?IASHttpSessionId=
+睛彩竞技,http://39.134.64.87:6610/PLTV/88888888/224/3221226124/index.m3u8?IASHttpSessionId=
+睛彩竞技,http://39.134.67.108/PLTV/88888888/224/3221226046/1.m3u8
+睛彩竞技,http://189.1.232.104:50001/2000000003000000060/hnbblive/index.m3u8
+睛彩竞技,http://home.wwang.pw:35455/itv/2000000003000000060.m3u8?cdn=hnbblive
+睛彩竞技,http://39.187.68.194:5027/TVOD/1000000006000270001/ystenlive/index.m3u8
+睛彩竞技,http://drive.mxmy.net:8888/udp/239.3.1.125:8001
 睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226147/index.m3u8?IASHttpSessionId=
 睛彩篮球,http://39.134.67.108/PLTV/88888888/224/3221225895/1.m3u8
+快乐垂钓,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=f619af&tk=822270345d4c
+快乐垂钓,http://drive.mxmy.net:8888/udp/239.3.1.164:8001
+快乐垂钓,http://nas.hssvm.com:8888/udp/225.1.2.18:5002
+睛彩羽毛球,http://drive.mxmy.net:8888/udp/239.3.1.127:8001
+睛彩篮球,http://drive.mxmy.net:8888/udp/239.3.1.126:8001
+睛彩广场舞,http://39.134.64.87:6610/PLTV/88888888/224/3221226472/index.m3u8?IASHttpSessionId=
 央视高网,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 
